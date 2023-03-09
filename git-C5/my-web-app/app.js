@@ -10,7 +10,7 @@ var app = express();
 // Thang da sua
 // Thang sua tu CloneGitC5
 //Thang tiep tuc sua Code
-//Thang lai sua tiep 
+//Thang lai sua tiep  tuc
 // Sua lan n
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
