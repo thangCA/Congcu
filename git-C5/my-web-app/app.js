@@ -8,7 +8,6 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 var app = express();
-// Thang da sua
 // Thang sua tu CloneGitC5
 //Thang tiep tuc sua Code
 //Thang lai sua tiep tuc
