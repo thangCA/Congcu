@@ -20,9 +20,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-//hello
-//Lai sua
-// catch 404 and forward to error handler
+
+// catch 404 and forward to error 
 app.use(function(req, res, next) {
   next(createError(404));
 });
