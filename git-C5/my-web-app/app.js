@@ -13,7 +13,7 @@ var app = express();
 //Thang tiep tuc sua Code
 //Thang lai sua tiep tuc
 // Sua lan n
-// Thang tao conflic
+// Thang tao conflict giua remote va local
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
